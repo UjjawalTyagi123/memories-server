@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
+    "build": "webpack",
     "dev":"nodemon index"
   },
   "keywords": [],
